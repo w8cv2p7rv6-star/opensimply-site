@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://opensimply-launch.vercel.app/sitemap.xml
+Sitemap: https://w8cv2p7rv6-star.github.io/opensimply-site/sitemap.xml
